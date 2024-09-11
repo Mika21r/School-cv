@@ -1,1 +1,1 @@
-# School-cv
+https://Mika21r.github.io/School-cv/cv
