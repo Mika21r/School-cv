@@ -191,7 +191,7 @@ body {
 }
 
 .contacts-item{
-    display: ruby-text;
+    display: flex;
     padding-left: 35px;
 }
 
