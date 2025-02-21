@@ -1,1 +1,1 @@
-https://Mika21r.github.io/School-cv/cv
+https://Mika21r.github.io/School-cv
